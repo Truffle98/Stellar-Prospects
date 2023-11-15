@@ -1,0 +1,224 @@
+﻿  AsteroidTile.cpp
+  AsteroidType.cpp
+  ConsoleBase.cpp
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\ConsoleBase.cpp(73,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\ConsoleBase.cpp(93,41): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\ConsoleBase.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\ConsoleBase.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\ConsoleBase.cpp(144,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\ConsoleBase.cpp(155,42): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\ConsoleBase.cpp(168,40): warning C4018: '<=': signed/unsigned mismatch
+  GameLogic.cpp
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(29,37): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(34,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(47,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(49,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(91,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(93,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(108,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(110,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(119,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(121,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(131,75): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(131,31): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(132,91): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(132,35): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(140,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(140,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(153,75): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(153,31): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(154,91): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(154,35): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(162,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(162,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\GameLogic.cpp(174,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  MiningHUD.cpp
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\MiningHUD.cpp(51,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\MiningHUD.cpp(51,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PerlinNoise.cpp
+  RockType.cpp
+  SpaceGameController.cpp
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\SpaceGameController.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\SpaceGameController.cpp(15,58): warning C4244: 'argument': conversion from 'const T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\SpaceGameController.cpp(15,44): warning C4244: 'argument': conversion from 'const T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\SpaceGameController.cpp(17,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\SpaceGameController.cpp(17,44): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\SpaceGameController.cpp(23,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Button.cpp
+  BaseHUD.cpp
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\BaseHUD.cpp(50,40): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\BaseHUD.cpp(85,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\BaseHUD.cpp(85,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\BaseHUD.cpp(105,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\main.cpp(8,105): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\main.cpp(8,66): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MenuHUD.cpp
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\MenuHUD.cpp(29,46): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\MenuHUD.cpp(81,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\MenuHUD.cpp(81,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ResourceManager.cpp
+  Generating Code...
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\MenuHUD.cpp(116): warning C4715: 'MenuHUD::HandleEvents': not all control paths return a value
+C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\AsteroidType.cpp(33): warning C4715: 'AsteroidType::GetRockType': not all control paths return a value
+  Aquarium.vcxproj -> C:\Users\tommy\Documents\Coding Projects\Aquarium\Aquarium\x64\Debug\Aquarium.exe

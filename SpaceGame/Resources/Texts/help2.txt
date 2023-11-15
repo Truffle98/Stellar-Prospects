@@ -1,0 +1,2 @@
+Help page 2:
+Mineral mining process: To mine minerals, first we have to locate them. You do this by moving your ships around the map, revealing asteroids. Once you find large clumps of asteroid, you can begin to scan them. Scanning will reveal the specific minerals in a location. Then you can mine and collect the minerals. Beware, your ship can only hold so much in storage, and you must bring minerals back to the homebase between mining. Your ships will have various stats, certain ships are better for certain tasks.

@@ -1,0 +1,4 @@
+Thanks for playing the Stellar Prospects demo!
+
+You sold ~ units of mineral for a total value of ~.
+If you want to play again, you can run the startgame function again to play on a new map. Otherwise you can now use the exitgame function to finish. :)

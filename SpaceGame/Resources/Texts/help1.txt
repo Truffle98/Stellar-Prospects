@@ -1,0 +1,8 @@
+Help page 1:
+Back: brings you back to the last command you entered, no arguments.
+Clear: clears all commands and brings you to the base page, no arguments.
+Note - Most functions automatically clear, help function does not.
+Help: Brings up various help menus. Optionally 1 argument to choose a menu.
+Startgame: Begins the game, no arguments.
+Exitgame: Exits the game, must type twice.
+Next page explains more mechanics and functions, should read before starting.

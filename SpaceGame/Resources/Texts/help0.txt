@@ -1,0 +1,3 @@
+Help page 0:
+Everything in this game is controlled by functions. You brought this up with a function. Some functions need 'arguments' as well as just the function name. An argument is a number that is placed after the function name to communicate how you will be calling the function. To access later pages of the help menu, you will have to do this. Type 'help 1' to see the first page of the help menu.
+Note - Hitting enter into the console with no text will finish writing the current text block.

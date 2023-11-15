@@ -1,0 +1,22 @@
+-- MAP INFO --
+
+Size X: ~ Y: ~
+
+-- MINERALS -- 
+~:
+Color: ~
+Volume: ~
+Value: ~
+
+~:
+Color: ~
+Volume: ~
+Value: ~
+
+~:
+Color: ~
+Volume: ~
+Value: ~
+
+
+

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\HUDs">
+      <UniqueIdentifier>{dca39a78-239a-4ac2-a4fd-dab64979b397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HUDs">
+      <UniqueIdentifier>{577d8b55-e91a-408f-8c06-fd2f478d25da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Console">
+      <UniqueIdentifier>{c55e5ade-712e-4f59-a353-5807f3f2625b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Console">
+      <UniqueIdentifier>{20bd39dd-6bea-4e9a-9d0f-d3263988424a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AsteroidData">
+      <UniqueIdentifier>{1a4b4bcf-5007-4ea3-a613-757184b05b88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AsteroidData">
+      <UniqueIdentifier>{2d454a87-126d-4ae1-8b97-53437f574725}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceGameController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseHUD.cpp">
+      <Filter>Source Files\HUDs</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuHUD.cpp">
+      <Filter>Source Files\HUDs</Filter>
+    </ClCompile>
+    <ClCompile Include="MiningHUD.cpp">
+      <Filter>Source Files\HUDs</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleBase.cpp">
+      <Filter>Source Files\Console</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerFunction.cpp">
+      <Filter>Source Files\Console</Filter>
+    </ClCompile>
+    <ClCompile Include="AsteroidTile.cpp">
+      <Filter>Source Files\AsteroidData</Filter>
+    </ClCompile>
+    <ClCompile Include="AsteroidType.cpp">
+      <Filter>Source Files\AsteroidData</Filter>
+    </ClCompile>
+    <ClCompile Include="RockType.cpp">
+      <Filter>Source Files\AsteroidData</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Source Files\Console</Filter>
+    </ClCompile>
+    <ClCompile Include="Spaceship.cpp">
+      <Filter>Source Files\AsteroidData</Filter>
+    </ClCompile>
+    <ClCompile Include="TextPiece.cpp">
+      <Filter>Source Files\Console</Filter>
+    </ClCompile>
+    <ClCompile Include="EndscreenHUD.cpp">
+      <Filter>Source Files\HUDs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SpaceGameController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PerlinNoise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseHUD.h">
+      <Filter>Header Files\HUDs</Filter>
+    </ClInclude>
+    <ClInclude Include="MiningHUD.h">
+      <Filter>Header Files\HUDs</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuHUD.h">
+      <Filter>Header Files\HUDs</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleBase.h">
+      <Filter>Header Files\Console</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerFunction.h">
+      <Filter>Header Files\Console</Filter>
+    </ClInclude>
+    <ClInclude Include="AsteroidTile.h">
+      <Filter>Header Files\AsteroidData</Filter>
+    </ClInclude>
+    <ClInclude Include="AsteroidType.h">
+      <Filter>Header Files\AsteroidData</Filter>
+    </ClInclude>
+    <ClInclude Include="RockType.h">
+      <Filter>Header Files\AsteroidData</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Header Files\Console</Filter>
+    </ClInclude>
+    <ClInclude Include="Spaceship.h">
+      <Filter>Header Files\AsteroidData</Filter>
+    </ClInclude>
+    <ClInclude Include="TextPiece.h">
+      <Filter>Header Files\Console</Filter>
+    </ClInclude>
+    <ClInclude Include="EndscreenHUD.h">
+      <Filter>Header Files\HUDs</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+-- SHIP INFO --
+
+Mining speed: ~
+Mining radius: ~
+
+Scanning speed: ~
+Scanning radius: ~
+
+Reveal radius: ~
+Move speed: ~
+Carry capacity: ~
+
+Status: ~
+Location: ~, ~
+Cargo hold: ~/~
+Current value: ~
+

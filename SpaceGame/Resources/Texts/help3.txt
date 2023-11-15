@@ -1,0 +1,7 @@
+Help page 3:
+Moveship: Takes 3 arguments, first the number of the ship you want to move, then the X value of where you want to go, then finally the Y value. 1, 1 is in the top left, increasing values moves down and right.
+Startscan: Takes a single argument, the number of the ship you want to start scanning.
+Startmine: Takes a single argument, the number of the ship you want to start mining.
+Returnship: Takes a single argument, the number of the ship you want to return to base.
+Mapinfo: Information about the map you are currently on, takes no arguments. Should read on start.
+Shipinfo: Information about a certain ship, takes a single argument, the number of the ship.
