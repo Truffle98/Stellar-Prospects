@@ -1,4 +1,5 @@
 This is a game I made using C++. It uses the SFML library. All other code is provided by me.
+Compiled for windows.
 
 To launch the game you just need to go into the stellar prospects folder and launch the exe.
 This is a game demo I made over a month using only C++.
